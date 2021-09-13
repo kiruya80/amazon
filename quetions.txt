@@ -1,0 +1,12 @@
+widget으로 안만드로 buildAppBar로 하는 이유는?
+
+Padding
+ㄴ EdgeInsets.symmetric
+
+Row
+ㄴ mainAxisAlignment
+
+SingleChildScrollView
+ㄴ scrollDirection
+
+InkWell
