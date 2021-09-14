@@ -14,6 +14,12 @@ class BuildBookList extends StatelessWidget {
       color: Colors.black.withOpacity(0.1),
       child: Column(
         children: [
+          new IconButton(
+            icon: new Icon(Icons.photo_album),
+            tooltip: 'Hi!',
+            iconSize: 300,
+            onPressed: () => {},
+          ),
           Padding(
             padding: const EdgeInsets.symmetric(
               vertical: Constants.kPadding,
